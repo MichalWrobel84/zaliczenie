@@ -1,4 +1,4 @@
-# Zaliczenie
+# Projekt zaliczeniowy
 Praca_zaliczeniowa z kierunku ALK PYTHON DEV PD2
 
 Do poprawnego działania projektu wymagane są następujące pakiety:

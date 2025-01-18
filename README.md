@@ -10,7 +10,7 @@ Do poprawnego działania projektu wymagane są następujące pakiety:
 - import folium
 - from folium.plugins import MarkerCluster
 
-W poniższej linijce należy lokalizacj folderu w którym znajduje się baza:
+W poniższej linijce należy podać lokalizację folderu w którym znajduje się baza:
 - os.chdir('C:/Users/micha/Jupyter projekty') #ustawienie folderu
 
 

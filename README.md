@@ -14,7 +14,7 @@ python3 -m venv venv
 ````
 source venv/bin/activate
 ````
-### Instalacjabibliotek z requirements.txt
+### Instalacja bibliotek z requirements.txt
 ```pip install -r requirements.txt```
 
 ## Pandas 

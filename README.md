@@ -1,3 +1,5 @@
+# TEMAT PROJEKTU
+# Analiza danych dotyczących wypadków samochodowych w NY
 
 # ALK 
 # Michal_Wrobel_ALK_PYTHON_DEV_PD2_projekt
